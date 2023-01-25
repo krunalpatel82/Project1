@@ -1,1 +1,8 @@
 adding someting and push ti github remotely
+
+
+
+
+local development
+
+1 trying learn branching locally
